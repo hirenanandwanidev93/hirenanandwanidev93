@@ -24,6 +24,9 @@ I have a passion for developing user-centric solutions that drive business growt
 - Remote work opportunities
 
 Let's connect and build something great together!
+
+💻 Tech Stack:
+JavaScript TypeScript AWS Heroku Netlify Firebase Google Cloud Datadog Azure DigitalOcean Angular Angular.js Apache Kafka Apollo-GraphQL Express.js Next JS NestJS NPM JWT jQuery NodeJS React Redux Vue.js Yarn Three js WebGL Nginx Apache AmazonDynamoDB Firebase Postgres MySQL MongoDB ElasticSearch Postman Swagger
 <!--
 **hirenanandwanidev93/hirenanandwanidev93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
