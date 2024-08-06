@@ -2,20 +2,19 @@
 
 Welcome to my GitHub profile!
 
-👨‍💻 I'm a Senior Full Stack Developer with a robust background in crafting scalable and efficient web applications using Node.js, React, and Angular.
+👨‍💻 I'm a Senior Full Stack Developer with a robust background in crafting scalable and efficient web applications using Angular, React, Node.js and Python/Django/Flask.
 
 🚀 About Me
-I have a passion for developing user-centric solutions that drive business growth and enhance user experiences. With over 8 years of experience in the tech industry, I've contributed to numerous projects that have successfully solved complex problems using modern technologies.
+I have a passion for developing user-centric solutions that drive business growth and enhance user experiences. With over 8+ years of experience in the tech industry, I've contributed to numerous projects that have successfully solved complex problems using modern technologies.
 
 💼 What I'm Working On
-- Developing innovative features for Wellness Coach using React.
-- Leading a team of developers at Dineoutwith.us to enhance our Angular-based applications.
-- Exploring microservices architectures to improve scalability in Node.js applications.
+- Developing innovative web apps using Angular and React.
+- Exploring microservices architectures to improve scalability in Node.js applications and Python web applications.
 
 🌱 I’m currently learning
-- Advanced state management techniques in React applications.
+- Advanced state management techniques in Angular/React applications.
 - Performance optimization in Node.js.
-- The latest updates in Angular 16.
+- The latest updates in Angular 18.
 
 📝 I'm available for:
 
