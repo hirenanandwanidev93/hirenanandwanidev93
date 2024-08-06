@@ -25,7 +25,8 @@ I have a passion for developing user-centric solutions that drive business growt
 Let's connect and build something great together!
 
 ## 🌐 Socials:
-![Static Badge](https://img.shields.io/badge/linkedin%20-%20%230077B5?logo=linkedin&link=https%3A%2F%2Fin.linkedin.com%2Fin%2Fhiren-anandwani-39a10078)
+[![Static Badge](https://img.shields.io/badge/linkedin%20-%20%230077B5?logo=linkedin)](https://in.linkedin.com/in/hiren-anandwani-39a10078) 
+
 
 
 ## 💻 Tech Stack:
