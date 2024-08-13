@@ -8,8 +8,8 @@ Welcome to my GitHub profile!
 I have a passion for developing user-centric solutions that drive business growth and enhance user experiences. With over 8+ years of experience in the tech industry, I've contributed to numerous projects that have successfully solved complex problems using modern technologies.
 
 💼 What I'm Working On
-- Developing innovative web apps using Angular and React.
-- Exploring microservices architectures to improve scalability in Node.js applications and Python web applications.
+- Developing innovative web apps using Angular.
+- Exploring microservices architectures to improve scalability in PHP and Node.js applications.
 
 🌱 I’m currently learning
 - Performance optimization in Node.js.
